@@ -10,4 +10,4 @@ Features
  Win, Lose, or Draw conditions
 
  Run the game by executing the script and following the on-screen instructions.
- Future improvements: Betting system, multiple rounds, and GUI version.
+ Future improvements: Betting system, multiple rounds.
